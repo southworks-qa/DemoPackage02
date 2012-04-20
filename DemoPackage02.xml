@@ -42,10 +42,10 @@
         <!-- <Lab>git@github.com:southworks-qa/Lab1Test.git</Lab> -->
       </Labs>
       <Demos>
-        <!-- <Demo>git@github.com:southworks-qa/Demo1Test.git</Demo> -->
+        <Demo>git@github.com:southworks-qa/Demo1Test.git</Demo>
       </Demos>
       <Presentations>
-		<Presentation>git@github.com:southworks-qa/PresentationsPackage1.git/TrafficManager</Presentation> <!-- Updated -->
+		<!-- <Presentation>git@github.com:southworks-qa/PresentationsPackage1.git/TrafficManager</Presentation> -->
 		<Presentation>git@github.com:southworks-qa/PresentationsPackage1.git/WindowsAzureCompute</Presentation> <!-- Updated -->
       </Presentations>
       <Videos>
