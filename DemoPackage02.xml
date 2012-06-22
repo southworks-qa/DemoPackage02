@@ -115,7 +115,7 @@
 			<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/WindowsAzureCloudServices</Presentation>
 			<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/CloudServiceLifecycle</Presentation>						
 		</Presentations>
-    </Unit> -->
+    </Unit>
     <Unit>
      <Description>
         Windows Azure offers multiple services to help manage your data in the cloud. SQL Database, formerly known as SQL Azure Database; Tables, which offer NoSQL capabilities at a low cost; and Blobs, that provide inexpensive storage for data such as video, audio, and images.
@@ -156,7 +156,7 @@
 		<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/DeliveringWindows8PushNotifications</Presentation>
 		<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/BuildingDeviceCloudApps</Presentation>
 	 </Presentations>
-    </Unit>  
+    </Unit> -->  
   </Units>
   <CustomProperties>
     <Property Name="AzureHomeLink" Value="http://www.microsoft.com/azure/default.mspx" />
