@@ -32,7 +32,7 @@
     </Group>
   </Prerequisites>
   <Units xmlns:d="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
-    <Unit>
+    <!-- <Unit>
 		<Description>Windows Azure</Description>
 		<Id>WindowsAzure</Id>
 		<Name>Windows Azure</Name>
@@ -41,15 +41,15 @@
 		<Presentations>
 			<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/WindowsAzureOverview</Presentation>						
 		</Presentations>
-    </Unit>
-    <!--<Unit>
+    </Unit> -->
+    <Unit>
 		<Description>
 			Windows Azure provides the ability to quickly and easily create and deploy websites with support for multiple application frameworks and preloaded with popular open source applications including WordPress, Drupal, Joomla! and Umbraco. A website is the host for a web application running in the cloud that you can control and manage. After you create a website in Windows Azure you can start, stop, and delete it whenever you need to and you can access the website as easily as you access a website hosted on a web server in your office.
 		</Description>
 		<Id>WebSites</Id>
 		<Name>Web Sites</Name>
 		<Labs>
-			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSites.git</Lab>
+			<!-- <Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSites.git</Lab>
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSitesVS2012.git</Lab>
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSitesVMSQL.git</Lab>	
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-NodejsAzureWebSitesVMs-OSX.git</Lab>	
@@ -58,14 +58,14 @@
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-WebAppGalleryAzureWebSites.git</Lab>
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-WebAppGalleryAzureWebSites-OSX.git</Lab>					
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSitesWebMatrix.git</Lab>
-			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-NodejsAzureWebSites-OSX.git</Lab>	
+			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-NodejsAzureWebSites-OSX.git</Lab> -->	
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-PHPAppsAzureWebSites-OSX.git</Lab>
 		</Labs>
-		<Presentations>
+		<!-- <Presentations>
 			<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/WindowsAzureWebSites</Presentation>
-		</Presentations>
+		</Presentations> -->
 	</Unit>
-	<Unit>
+	<!-- <Unit>
       <Description>
         Windows Azure's flexible and interoperable platform can be used to build new applications to run from the cloud or enhance existing applications with cloud-based capabilities.
       </Description>
@@ -115,7 +115,7 @@
 			<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/WindowsAzureCloudServices</Presentation>
 			<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/CloudServiceLifecycle</Presentation>						
 		</Presentations>
-    </Unit>
+    </Unit> -->
     <Unit>
      <Description>
         Windows Azure offers multiple services to help manage your data in the cloud. SQL Database, formerly known as SQL Azure Database; Tables, which offer NoSQL capabilities at a low cost; and Blobs, that provide inexpensive storage for data such as video, audio, and images.
@@ -123,26 +123,26 @@
      <Id>BuildingBlockServices</Id>
      <Name>Building Block Services</Name>
      <Labs>
-        <Lab>git@github.com:WindowsAzure-TrainingKit/HOL-IntroSQLDatabase.git</Lab>
-		<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ExploringStorage.git</Lab>	
+        	<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-IntroSQLDatabase.git</Lab>
+		<!-- <Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ExploringStorage.git</Lab>	
 		<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-HadoopOnWindowsAzure.git</Lab>
 		<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-IntroAccessControlService.git</Lab>
 		<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-FederatedAuthWebRole.git</Lab>		
 		<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-BuildingAppsWithCaching.git</Lab>
 		<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ServiceBusMessaging.git</Lab>
 		<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ServiceBusServiceRemoting.git</Lab>
-     	<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-TrafficManager.git</Lab>	
+     		<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-TrafficManager.git</Lab>	
 		<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ACSwithLocalSTS.git</Lab>
-		<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-WebServiceAndIdentity.git</Lab>
+		<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-WebServiceAndIdentity.git</Lab> -->
 	 </Labs>
-	 <Presentations>
+	 <!-- <Presentations>
 		<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/SQLDatabase</Presentation>
 		<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/WindowsAzureStorage</Presentation>
 		<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/WindowsAzureServiceBus</Presentation>		
 		<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/HadoopOnWindowsAzure</Presentation>
-	 </Presentations>
+	 </Presentations> -->
     </Unit>  
-    <Unit>
+    <!-- <Unit>
      <Description>
      </Description>
      <Id>ApplicationScenarios</Id>
