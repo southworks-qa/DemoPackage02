@@ -60,12 +60,12 @@
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSitesWebMatrix.git</Lab>
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-NodejsAzureWebSites-OSX.git</Lab>	
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-PHPAppsAzureWebSites-OSX.git</Lab>
-		</Labs>	-->
+		</Labs>
 		<Presentations>
 			<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/WindowsAzureWebSites</Presentation>
 		</Presentations>
 	</Unit>
-	<!-- <Unit>
+	<Unit>
       <Description>
         Windows Azure's flexible and interoperable platform can be used to build new applications to run from the cloud or enhance existing applications with cloud-based capabilities.
       </Description>
