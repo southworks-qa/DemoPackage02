@@ -50,7 +50,7 @@
 		<Name>Web Sites</Name>
 		<Labs>
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSites.git</Lab>
-			<!-- <Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSitesVS2012.git</Lab>
+			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSitesVS2012.git</Lab>
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSitesVMSQL.git</Lab>	
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-NodejsAzureWebSitesVMs-OSX.git</Lab>	
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSitesTFS.git</Lab>
@@ -59,7 +59,7 @@
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-WebAppGalleryAzureWebSites-OSX.git</Lab>					
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSitesWebMatrix.git</Lab>
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-NodejsAzureWebSites-OSX.git</Lab>	
-			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-PHPAppsAzureWebSites-OSX.git</Lab> -->
+			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-PHPAppsAzureWebSites-OSX.git</Lab>
 		</Labs>	
 		<!-- <Presentations>
 			<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/WindowsAzureWebSites</Presentation>
