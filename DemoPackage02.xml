@@ -42,13 +42,13 @@
 			<Presentation>git@github.com:WindowsAzure-TrainingKit/WATK-Presentations.git/WindowsAzureOverview</Presentation>						
 		</Presentations>
     </Unit>
-	<Unit>
+    <!--<Unit>
 		<Description>
 			Windows Azure provides the ability to quickly and easily create and deploy websites with support for multiple application frameworks and preloaded with popular open source applications including WordPress, Drupal, Joomla! and Umbraco. A website is the host for a web application running in the cloud that you can control and manage. After you create a website in Windows Azure you can start, stop, and delete it whenever you need to and you can access the website as easily as you access a website hosted on a web server in your office.
 		</Description>
 		<Id>WebSites</Id>
 		<Name>Web Sites</Name>
-		<!-- <Labs>
+		<Labs>
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSites.git</Lab>
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSitesVS2012.git</Lab>
 			<Lab>git@github.com:WindowsAzure-TrainingKit/HOL-ASPNETAzureWebSitesVMSQL.git</Lab>	
