@@ -39,7 +39,6 @@
 		</Description>
 		<Id>WebSites</Id>
 		<Name>Web Sites</Name>
-		<Labs>
       <Labs>
         <Lab>git@github.com:southworks-qa/Lab1Test.git</Lab> <!-- Updated -->
       </Labs>
